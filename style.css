@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+}
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 40px;
+}
+img{
+    width: 40%;
+    border-radius: 40px;
+}
